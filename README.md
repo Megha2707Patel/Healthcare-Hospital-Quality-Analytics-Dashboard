@@ -96,7 +96,4 @@ Open: Tableau/healthcare-hospital-quality-dashboard.twb
 
 ---
 
-## 📬 Connect with Me
 
-Swapnil Yadav
-🔗 LinkedIn: https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
